@@ -1,6 +1,6 @@
 {
-    "name": "@zxing/library",
-    "version": "0.15.3",
+    "name": "@zxing/marcos0x",
+    "version": "0.15.4",
     "description": "TypeScript port of ZXing multi-format 1D/2D barcode image processing library.",
     "keywords": [
         "reader",
@@ -36,7 +36,7 @@
     "bugs": "https://github.com/zxing-js/library/issues/new",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zxing-js/library"
+        "url": "https://github.com/marcos0x/library"
     },
     "homepage": "https://zxing-js.github.io/library/",
     "private": false,
