@@ -462,7 +462,7 @@ export default class BitMatrix /*implements Cloneable*/ {
     }
 
     /*@Override*/
-    public hashCode(): int {
+    public hashCode(): number {
         let hash = this.width;
         hash = 31 * hash + this.width;
         hash = 31 * hash + this.height;

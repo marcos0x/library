@@ -262,7 +262,7 @@ export default class StringUtils {
   /**
    * Returns the charcode at the specified index or at index zero.
    */
-  public static getCharCode(str: string, index = 0): int {
+  public static getCharCode(str: string, index = 0): number {
     return str.charCodeAt(index);
   }
 
